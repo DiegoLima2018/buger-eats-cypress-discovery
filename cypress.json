@@ -1,5 +1,6 @@
 { 
     "viewportWidth": 1440,
     "viewportHeight": 980,
-    "baseUrl": "https://buger-eats-qa.vercel.app/" 
+    "baseUrl": "https://buger-eats-qa.vercel.app/",
+    "projectId": "anpn3k"
 }
