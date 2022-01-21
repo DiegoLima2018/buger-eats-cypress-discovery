@@ -1,0 +1,50 @@
+{ 
+    "signup": { 
+        "name": "Diego Lima",
+        "cpf": "12345678913",
+        "email": "weduma@dropjar.com",
+        "whatsapp": "11999999999",
+        "address": { 
+            "postalcode": "02326005",
+            "street": "Rua dos Pinheiros",
+            "number": "100",
+            "details": "casa 02",
+            "district": "Jardim Felicidade (Zona Norte)",
+            "city_state": "São Paulo/SP" 
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg" 
+        },
+    "cpf_inv": {
+        "name": "Neire Silva",
+        "cpf": "Z23456789AA",
+        "email": "monys@clrmail.com",
+        "whatsapp": "11888888888",
+        "address": {
+            "postalcode": "01153000",
+            "street": "Rua Vitorino Carmilo",
+            "number": "100",
+            "details": "casa 04",
+            "district": "Barra Funda",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Paulo Fernandes",
+        "cpf": "12546774611",
+        "email": "wedumadropjar.com.r",
+        "whatsapp": "11779999999",
+        "address": {
+            "postalcode": "01030001",
+            "street": "Rua Florêncio de Abreu",
+            "number": "100",
+            "details": "41",
+            "district": "Centro",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
